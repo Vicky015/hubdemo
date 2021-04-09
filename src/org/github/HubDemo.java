@@ -14,6 +14,18 @@ public class HubDemo {
 		System.out.println("method 3");
 	}
 
+	private void method7() {
+		System.out.println("method 7");
+	}
+
+	private void method8() {
+		System.out.println("method 8");
+	}
+	
+	private void method9() {
+		System.out.println("method 9");
+	}
+	
 }
 
 
