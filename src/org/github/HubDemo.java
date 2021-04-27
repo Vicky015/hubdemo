@@ -41,4 +41,12 @@ public class HubDemo {
 	private void method10() {
 		System.out.println("method10");
 	}
+private void method11() {
+	System.out.println("method11");
+
+}
+private void method12() {
+	System.out.println("method12");
+
+}
 }
